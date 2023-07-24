@@ -1,6 +1,7 @@
 BGRemover
 ==
-Alternativa de Código Abierto a Remove.bg 
+Alternativa de Código Abierto a Remove.bg  
+--- 
 
 
 BGRemover es un servicio basado en Docker que proporciona una alternativa de código abierto al popular servicio de pago remove.bg. Este proyecto utiliza la biblioteca backgroundremover de Python para eliminar automáticamente el fondo de las imágenes, similar a cómo funciona remove.bg, pero de manera completamente gratuita y con la flexibilidad y el control que proporciona el código abierto.
@@ -127,5 +128,8 @@ Este comando descargará la imagen resultante y la guardará en el directorio ac
 
 Por favor, ten en cuenta que estos son solo ejemplos y puedes modificarlos según tus necesidades o cómo hayas configurado tu servicio.
 
+------
+NO SEAS MALITO Y REGÁLAME UN CAFECITO 
+👉 [https://ko-fi.com/rolycoffe](https://ko-fi.com/rolycoffe)
 
 
